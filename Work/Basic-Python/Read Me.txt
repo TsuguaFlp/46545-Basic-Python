@@ -1,0 +1,8 @@
+โจทย์ที่ 5 README และ GitHub (README.md)
+ให้นักเรียนรวมไฟล์ .py จากข้อ 1 ถึง 4 ไว้ในโฟลเดอร์ชื่อ Basic-Python และตั้งชื่อไฟล์ดังนี้
+- 01-name_length.py
+- 02-word_concat.py
+- 03-type_check.py
+- 04-debug_name.py
+พร้อมสร้างไฟล์ README.md เขียนอธิบายว่า
+ใบงานนี้เป็นการฝึกใช้คำสั่งพื้นฐานของ Python ได้แก่ print(), input(), len(), type() และการ debug error
